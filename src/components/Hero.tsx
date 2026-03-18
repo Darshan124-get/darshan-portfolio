@@ -6,7 +6,7 @@ import { Github, Linkedin, Mail, Play } from "lucide-react";
 
 import Image from "next/image";
 
-const titles = ["Full Stack Developer", "Flutter App Developer", "AI Builder", "Software Engineer"];
+const titles = ["Full Stack Developer", "Flutter App Developer", "AWS Cloud Architect", "Software Engineer"];
 
 export default function Hero() {
   const [index, setIndex] = React.useState(0);

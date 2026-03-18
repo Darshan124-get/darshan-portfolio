@@ -33,8 +33,8 @@ export default function About() {
               I strive for excellence in every line of code.
             </p>
             <p>
-              With experience in <span className="text-white font-medium">Web Development, Mobile Apps (Flutter), AI tools, and Backend Systems</span>, 
-              I bring a holistic approach to product development.
+              With deep expertise in <span className="text-white font-bold tracking-wide">Flutter Application Development</span> and architecting scalable <span className="text-white font-bold tracking-wide">AWS Cloud Infrastructure</span>, 
+              I bring a robust and holistic approach to modern product development.
             </p>
           </div>
         </motion.div>
