@@ -9,6 +9,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const outfit = Outfit({ subsets: ["latin"], variable: "--font-outfit" });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://darshan.crafzio.in"),
   title: "Darshan AB | Full Stack Developer",
   description: "Premium Portfolio of Darshan AB - Building scalable web and mobile applications, intelligent tools, and beautiful user experiences. Specializing in Flutter, React, Next.js, and Python.",
   keywords: ["Darshan AB", "Full Stack Developer", "Flutter Developer", "React Developer", "Next.js", "Software Engineer", "Portfolio", "Web Developer", "App Developer"],
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://darshanab.com",
+    url: "https://darshan.crafzio.in",
     title: "Darshan AB | Full Stack Developer",
     description: "Premium Portfolio of Darshan AB - Building scalable web and mobile applications, intelligent tools, and beautiful user experiences.",
     siteName: "Darshan AB Portfolio",
